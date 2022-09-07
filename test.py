@@ -1,0 +1,3 @@
+a = "ErenPaper"
+print(a)
+
